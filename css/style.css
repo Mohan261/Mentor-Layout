@@ -1,0 +1,258 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container{
+	width:1340px;
+	margin:0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_container{
+	display:flex;
+	flex-wrap:wrap;
+	margin-left:-15px;
+	margin-right:-15px;
+}
+/* Flex-Boxes Items Starts */
+.flex_item-1{
+	width:8.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item-2{
+	width:16.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item-3{
+	width:25%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item-4{
+	width:33.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item-5{
+	width:41.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item-6{
+	width:50%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item-7{
+	width:58.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item-8{
+	width:66.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item-9{
+	width:75%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item-10{
+	width:83.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item-11{
+	width:91.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item-12{
+	width:100%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+/* Flex-Boxes Items Ends */
+/* Header Sectin Starts */
+.header{
+	background-color:red;
+	width:auto;
+	height:80px;
+	padding:15px 0;
+}
+.logo{
+	background:black;
+	width:auto;
+	height:50px;
+}
+.nav_bar{
+	background:black;
+	width:auto;
+	height:50px;
+}
+
+/* Header Sectin Ends */
+/* Banner Section Starts */
+.banner_sec{
+	background:black;
+	width:auto;
+	height:500px;
+	padding:100px 0;
+}
+.banner_content{
+	background:red;
+	width:auto;
+	height:300px;
+}
+/* Banner Section Ends */
+/* About Section Starts */
+.about_sec{
+	background:red;
+	width:auto;
+	height:450px;
+	padding:30px 0;
+}
+.about_content{
+	background:black;
+	width:auto;
+	height:390px;
+}
+.about_image{
+	background:black;
+	width:auto;
+	height:390px;
+}
+
+/* About Section Ends */
+/* Number Section Starts */
+.num_sec{
+	background:black;
+	width:auto;
+	height:300px;
+	padding:50px;
+}
+.num_card{
+	background:red;
+	width:auto;
+	height:200px;
+}
+/* Number Section Ends */
+/* Why Section Starts */
+.why_sec{
+	background:red;
+	width:auto;
+	height:500px;
+	padding:50px;
+}
+.left_cont{
+	background:black;
+	width:auto;
+	height:400px;
+}
+.right_cont{
+	padding:20px 0;
+}
+.why_card{
+	background:black;
+	width:auto;
+	height:360px;
+}
+/* Why Section Ends */
+/* Other Section Starts */
+.other_sec{
+	background:black;
+	width:auto;
+	padding:50px 0;
+}
+.other_card{
+	background:red;
+	width:auto;
+	height:80px;
+}
+.row_gap{
+	row-gap:30px;
+}
+/* Other Section Ends */
+/* Course Section Starts */
+.course_sec{
+	background:red;
+	width:auto;
+	padding:50px 0;
+}
+.course_title{
+	background:black;
+	width:100%;
+	height:80px;
+	margin-bottom:30px;
+}
+.course_card{
+	background:black;
+	width:auto;
+	height:450px;
+}
+/* Course Section Ends */
+/* Team Section Starts */
+.team_sec{
+	background:black;
+	width:auto;
+	padding:50px 0;
+}
+.team_card{
+	background:red;
+	width:auto;
+	height:450px;
+}
+/* Team Section Ends */
+/* Footer Section Starts */
+.footer_top{
+	background:red;
+	padding:30px;
+}
+.address{
+	background:black;
+	height:260px;
+}
+.uselinks{
+	background:black;
+	height:300px;
+}
+.ourservices{
+	background:black;
+	height:300px;
+}
+.news_letter{
+	background:black;
+	height:200px;
+}
+/* footer Top Section Ends */
+/* Footer Bottom Section Starts */
+.footer_bottom{
+	background:black;
+	padding:30px;
+}
+.copyright{
+	background:red;
+	height:60px;
+}
+.social{
+	background:red;
+	height:60px;
+}
+/* Footer Bottom Section Ends */
+/* Footer Section Ends */
